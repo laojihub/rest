@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - restful@localhost" uuid="f4e383b3-790a-49eb-9528-de28bdce8a9b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>restful.*</schema-pattern>
+      <default-schemas>restful.*</default-schemas>
+    </data-source>
+  </component>
+</project>
